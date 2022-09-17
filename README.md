@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **faisalahmmedtonmoy@gmail.com**
 
+- 👨‍💻 Personal Portfolio **https://faisalahmmedtonmoy.netlify.app** 
+
 - ⚡ Fun fact **I'm kinda CHILL**
 
 <h3 align="left">Connect with me:</h3>
