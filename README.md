@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **ML, Android, Flutter**
 
-- 📫 How to reach me **faisalahmmedtonmoy@gmail.com**
+- 📫 How to reach me [**Email**](faisalahmmedtonmoy@gmail.com)
 
-- 👨‍💻 Personal Portfolio **https://faisalahmmedtonmoy.netlify.app** 
+- 👨‍💻 Personal Portfolio [**Website**](https://faisalahmmedtonmoy.netlify.app) 
 
 - ⚡ Fun fact **I'm kinda CHILL**
 
